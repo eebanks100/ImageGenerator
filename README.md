@@ -56,5 +56,10 @@ Ensure all the required dependencies have been properly installed.
 ### Creating Datasets For CamoTectV2
 When generating datasets for CamoTectV2, it is best to simply leave all the `Image Type` checkboxes checked since the negatives will eventually need to be used together with the positive images. In the context of training using CamoTectV2, a minimum of 5000 images (positive or negative) should be enough to train.
 
-[Using CamoTectV2 With Generated Dataset](./../CamoTectV2/README.md)
+[Using CamoTectV2 With Generated Dataset](https://github.com/eebanks100/CamoTectV2)
 
+
+#### Developers
+- Elisha Ebanks
+- Jacob Doby
+- Atabey Abbasi
